@@ -2,7 +2,7 @@
 - 👀 I’m interested in Industrial Automation
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Anything that helps a new Pyhton learner
-- 📫 How to reach me at mikerogers.professional@gmail.com
+- 📫 How to reach me: mikerogers.professional@gmail.com
 
 <!---
 CAPM-MIKE/CAPM-MIKE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
